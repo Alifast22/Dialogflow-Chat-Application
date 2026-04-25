@@ -1,4 +1,4 @@
-#----------------------BACKEND----------------------
+**#----------------------BACKEND----------------------**
 
 # Dialogflow Chat API (Backend)
 
@@ -109,8 +109,10 @@ bashcp .env.example .env
 
 
 
+**#--------------------------FRONTEND----------------------------**
 
-#--------------------------FRONTEND----------------------------
+
+
 Dialogflow Chat UI (Frontend)
 A React chat interface that speaks to the .NET WebSocket backend, which in turn talks to Google Dialogflow ES. Built with Vite for fast local dev and a tiny production bundle.
 
